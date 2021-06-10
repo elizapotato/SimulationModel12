@@ -1,0 +1,10 @@
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\bin\Debug\Simulation-12.exe.config
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\bin\Debug\Simulation-12.exe
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\bin\Debug\Simulation-12.pdb
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation-12.csproj.AssemblyReference.cache
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation_12.Form1.resources
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation_12.Properties.Resources.resources
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation-12.csproj.GenerateResource.cache
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation-12.csproj.CoreCompileInputs.cache
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation-12.exe
+C:\Users\liza_\source\repos\Simulation-12\Simulation-12\obj\Debug\Simulation-12.pdb
